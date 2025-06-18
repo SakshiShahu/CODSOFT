@@ -13,7 +13,7 @@ Each task showcases my understanding of programming concepts and problem-solving
 - ✅ Task 1: Guess the Number Game   
   A console-based Java game where the user attempts to guess a randomly generated number. The game provides feedback on whether the guess is too high or too low and keeps track of the number of attempts.
 
-- ✅ Task 2: **Grade Calculator  
+- ✅ Task 2: Grade Calculator  
   A Java application that calculates a student's grade based on marks entered for different subjects. It computes the average, percentage, and assigns a grade based on predefined criteria.
 
 - ✅ Task 3: Course Management System 
